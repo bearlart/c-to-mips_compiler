@@ -1,0 +1,48 @@
+#############################
+#        Compilador         #
+#############################
+int
+ID.main
+L_PARENTHESIS
+R_PARENTHESIS
+L_BRACE
+int
+ID.n
+SEMICOLON
+ID.n
+ASSIGNMENT
+NUMINT.2
+SEMICOLON
+R_BRACE
+EOF_TOKEN
+
+Eof encontrado, encerrando Parser.
+
+--------------------------------
+---ARVORE DE SINTAXE ABSTRATA---
+--------------------------------
+Program
+	function int main (
+		)
+		var int n
+
+		ASSIGNMENT
+			id.n
+		-------------------------------
+			int.2
+
+functionNode
+programNode
+programNode
+function int main (
+	)
+	var int n
+
+	ASSIGNMENT
+		id.n
+	-------------------------------
+		int.2
+
+Amount of lines is: 5
+
+Amount of errors found during parsing: 0

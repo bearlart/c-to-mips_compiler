@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1503844039 source:c:\users\citizen\documents\lexer\main.c
+	<stdio.h>
+	<stdlib.h>
+	"analex.h"
+
+1503858718 source:c:\users\citizen\documents\lexer\analex.c
+	"analex.h"
+
+1503858891 c:\users\citizen\documents\lexer\analex.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1505273851 source:c:\users\thiago pc\google drive\teoria dos compiladores\lexer\main.c
+	<stdio.h>
+	<stdlib.h>
+	"analex.h"
+	"reading.h"
+	"SymbolTable.h"
+
+1505275509 c:\users\thiago pc\google drive\teoria dos compiladores\lexer\analex.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1505275656 source:c:\users\thiago pc\google drive\teoria dos compiladores\lexer\analex.c
+	"analex.h"
+	"reading.h"
+
+1504656205 source:c:\users\thiago\desktop\lexer\main.c
+	<stdio.h>
+	<stdlib.h>
+	"analex.h"
+	"SymbolTable.h"
+
+1504240746 c:\users\thiago\desktop\lexer\analex.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1504656242 source:c:\users\thiago\desktop\lexer\analex.c
+	"analex.h"
+
+1504134623 source:c:\users\thiago\desktop\lexer\src\node.cpp
+	"Node.h"
+	<stdio.h>
+	<stdlib.h>
+
+1504134608 c:\users\thiago\desktop\lexer\include\node.h
+
+1504132573 source:c:\users\thiago\desktop\lexer\src\symboltable.cpp
+	"SymbolTable.h"
+
+1504134998 c:\users\thiago\desktop\lexer\include\symboltable.h
+
+1504208595 c:\users\thiago\desktop\lexer\symboltable.h
+
+1504208595 source:c:\users\thiago\desktop\lexer\symboltable.c
+
+1505161737 source:c:\users\thiago pc\desktop\lexer\lexer\main.c
+	<stdio.h>
+	<stdlib.h>
+	"analex.h"
+	"reading.h"
+	"SymbolTable.h"
+
+1505161737 c:\users\thiago pc\desktop\lexer\lexer\analex.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1504643758 c:\users\thiago pc\desktop\lexer\lexer\symboltable.h
+
+1505163238 source:c:\users\thiago pc\desktop\lexer\lexer\analex.c
+	"analex.h"
+	"reading.h"
+
+1504985061 c:\users\thiago pc\desktop\lexer\lexer\reading.c
+	<stdio.h>
+	<stdlib.h>
+	"reading.h"
+
+1504990351 c:\users\thiago pc\desktop\lexer\lexer\reading.h
+	"analex.h"
+
+1504990785 source:c:\users\thiago pc\desktop\lexer\lexer\reading.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"reading.h"
+	"analex.h"
+
+1505273815 c:\users\thiago pc\google drive\teoria dos compiladores\lexer\reading.h
+	"analex.h"
+
+1504643758 c:\users\thiago pc\google drive\teoria dos compiladores\lexer\symboltable.h
+
+1504990785 source:c:\users\thiago pc\google drive\teoria dos compiladores\lexer\reading.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"reading.h"
+	"analex.h"
+
